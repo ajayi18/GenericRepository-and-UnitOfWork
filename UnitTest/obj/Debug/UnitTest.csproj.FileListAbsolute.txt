@@ -1,0 +1,16 @@
+C:\Users\mustafa.kapucu\Documents\Visual Studio 2015\Projects\Generic-Repostory-Unit-Of-Work\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\mustafa.kapucu\Documents\Visual Studio 2015\Projects\Generic-Repostory-Unit-Of-Work\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\mustafa.kapucu\Documents\Visual Studio 2015\Projects\Generic-Repostory-Unit-Of-Work\UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\mustafa.kapucu\Documents\Visual Studio 2015\Projects\Generic-Repostory-Unit-Of-Work\UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\mustafa.kapucu\Documents\Visual Studio 2015\Projects\Generic-Repostory-Unit-Of-Work\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\mustafa.kapucu\Documents\Visual Studio 2015\Projects\Generic-Repostory-Unit-Of-Work\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\mustafa.kapucu\Documents\Visual Studio 2015\Projects\Generic-Repostory-Unit-Of-Work\UnitTest\obj\Debug\UnitTest.pdb
+C:\Users\mustafa.kapucu\Documents\Visual Studio 2015\Projects\Generic-Repostory-Unit-Of-Work\UnitTest\bin\Debug\UnitTest.dll.config
+C:\Users\mustafa.kapucu\Documents\Visual Studio 2015\Projects\Generic-Repostory-Unit-Of-Work\UnitTest\bin\Debug\Business.dll
+C:\Users\mustafa.kapucu\Documents\Visual Studio 2015\Projects\Generic-Repostory-Unit-Of-Work\UnitTest\bin\Debug\Repository.dll
+C:\Users\mustafa.kapucu\Documents\Visual Studio 2015\Projects\Generic-Repostory-Unit-Of-Work\UnitTest\bin\Debug\EntityFramework.dll
+C:\Users\mustafa.kapucu\Documents\Visual Studio 2015\Projects\Generic-Repostory-Unit-Of-Work\UnitTest\bin\Debug\Business.pdb
+C:\Users\mustafa.kapucu\Documents\Visual Studio 2015\Projects\Generic-Repostory-Unit-Of-Work\UnitTest\bin\Debug\Repository.pdb
+C:\Users\mustafa.kapucu\Documents\Visual Studio 2015\Projects\Generic-Repostory-Unit-Of-Work\UnitTest\bin\Debug\EntityFramework.xml
+C:\Users\mustafa.kapucu\Documents\Visual Studio 2015\Projects\Generic-Repostory-Unit-Of-Work\UnitTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mustafa.kapucu\Documents\Visual Studio 2015\Projects\Generic-Repostory-Unit-Of-Work\UnitTest\bin\Debug\EntityFramework.SqlServer.xml
